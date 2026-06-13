@@ -14,7 +14,7 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 
 #### 🌀 Кейсы портфолио: 
 
-| **Анализ данных в Excel, подготовка отчетов**  | **Анализ данных: Python и SQL** |      
+| ####**Анализ данных в Excel, подготовка отчетов**  | ####**Анализ данных: Python и SQL** |      
 | -------------------------- | ------------------------------------------- |
 | • [Скачать excel](https://github.com/marina-vorobieva/portfolio/raw/main/Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx) Анализ рынка аренды недвижимости: интерактивный дашборд и отчет  <br>  • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/ГПН-С_(исследование+креатив).pdf) **Газпромнефть-Снабжение:** аудит промышленных компаний Индии на предмет установления партнерства  <br> • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/08-2024_Tazmar_Maritime_Генеральная_уборка.pdf) **Tazmar Maritime:** аналитика и итоги судоподъемных работ на Дальнем Востоке  <br>  | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
 
