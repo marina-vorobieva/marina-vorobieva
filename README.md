@@ -9,7 +9,7 @@
 - Провожу план-факт анализ, объясняю отклонения и выявляю их причины
 - Анализирую как внешний контур (рынок, конкуренты), так и внутренний (метрики продукта)
 
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="0"> 
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
 
 ### ⚡ Технический стек:
 
