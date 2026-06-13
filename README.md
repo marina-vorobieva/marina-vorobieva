@@ -16,7 +16,8 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 
 | **Анализ данных в Excel, подготовка отчетов**  | **Анализ данных: Python и SQL** |      
 | -------------------------- | ------------------------------------------- |
-| • [Скачать файл](https://github.com/marina-vorobieva/portfolio/raw/main/Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx)  Аналитика в Excel: интерактивный дашборд <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio)  Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
+| • [Скачать excel файл](https://github.com/marina-vorobieva/portfolio/raw/main/Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx)  Аналитика в Excel: интерактивный дашборд и отчет <br>  • [Скачать pdf файл](https://github.com/marina-vorobieva/portfolio/raw/main/ГПН-С (исследование+креатив).pdf)  Отчет: Аудит промышленных компаний Индии <br> • [Скачать pdf файл](https://github.com/marina-vorobieva/portfolio/raw/main/Генеральная уборка_Tazmar Maritime.pdf)  Отчет: аналитика и итоги судоподъемных работ компании Tazmar Maritime в проекте Генеральная уборка на Далльнем Востоке <br>  | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
+
 
 
 
