@@ -1,5 +1,5 @@
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
- <div style="display: flex; gap: 16 px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 16px; flex-wrap: wrap; align-items: center; pointer-events: none;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" />
+</div>
 
 ### Привет! Я Марина 
 
@@ -34,7 +35,7 @@
 
 <br>
 <div style="display: flex; align-items: flex-start">
-  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="50" style="margin-right: 0 px;">
+  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="50" style="margin-right: 10px;">
   <div>
     <h3 style="margin-top: 0;">Контакты</h3>
     <ul style="margin: 0;">
