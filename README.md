@@ -31,5 +31,5 @@
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
 
-![Просмотров профиля](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
