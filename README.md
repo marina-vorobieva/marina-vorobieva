@@ -1,12 +1,12 @@
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="220" height="220">
 
 ### Привет!
 
-🐤 Я **Марина**.
+🦅 Я **Марина**, Продуктовый аналитик 
 
-🦅 Продуктовый аналитик (стек: Excel, Power Query, VBA, SQL, Python).
-
-##🦢 Мое портфолио и кейсы:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
+⚡ Профессиональный стек: Excel, Power Query, VBA
+🌱 Базовый стек: SQL (базовый уровень, JOIN, оконные функции), Python (предобработка, визуализация)
+🦢 Мое портфолио и кейсы:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
 <br>
 <br>
 <br>
