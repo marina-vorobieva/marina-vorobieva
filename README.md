@@ -16,7 +16,10 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 
 | **Анализ данных в Excel, подготовка отчетов**  | **Анализ данных: Python и SQL** |      
 | -------------------------- | ------------------------------------------- |
-| • [Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio)  Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
+| • [Скачать файл](https://github.com/marina-vorobieva/portfolio/raw/main/Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx)  Аналитика в Excel: интерактивный дашборд <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio)  Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>  • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
+
+
+
 
 
 #### 📫 Контакты: 
