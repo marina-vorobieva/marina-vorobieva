@@ -23,7 +23,6 @@
 
 <br>
 <br>
-<br>
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin: 20px 0;">
   <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
