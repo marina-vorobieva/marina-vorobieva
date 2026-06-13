@@ -24,21 +24,23 @@
 <br>
 <br>
 <br>
-<div style="display: flex; align-items: flex-start; gap: 50px; margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" style="border-radius: 20px;">
-  
-  <div>
-    <h3 style="margin-top: 0;">📫 Контакты</h3>
-    <ul style="margin: 0; padding-left: 20px;">
-      <li>📍 Санкт-Петербург</li>
-      <li>📞 Phone: +7 931 101-50-56</li>
-      <li>✉️ E-mail: marina.vorobieva92@mail.ru</li>
-      <li>💬 Telegram: @marisabellich</li>
-    </ul>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="220" style="vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
+    </td>
+    <td style="vertical-align: top; padding-left: 50px;">
+      <h3 style="margin-top: 0;">📫 Контакты</h3>
+      <ul style="margin: 0;">
+        <li>📍 Санкт-Петербург</li>
+        <li>📞 Phone: +7 931 101-50-56</li>
+        <li>✉️ E-mail: marina.vorobieva92@mail.ru</li>
+        <li>💬 Telegram: @marisabellich</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
 </p>
-
