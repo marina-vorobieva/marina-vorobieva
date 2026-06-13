@@ -14,9 +14,9 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 
 #### 🌀 Кейсы портфолио: [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
 
-| **Анализ данных в Excel**  | **Анализ данных: Python и SQL** |      
+| **Анализ данных в Excel, подготовка отчетов**  | **Анализ данных: Python и SQL** |      
 | -------------------------- | ------------------------------------------- |
-| • [portfolio](https://github.com/marina-vorobieva/portfolio) - Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> - • [portfolio](https://github.com/marina-vorobieva/portfolio) - Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> | • [portfolio](https://github.com/marina-vorobieva/portfolio) - Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> |
+| • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> - • [portfolio](https://github.com/marina-vorobieva/portfolio)  Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>|
 
 <br>
 <br>
