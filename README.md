@@ -1,16 +1,9 @@
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-  <!-- Картинка слева -->
-  <div style="flex-shrink: 0;">
-    <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" />
-  </div>
-  
-  <!-- Весь текст справа -->
+<div style="display: flex; gap: 20px;">
+  <img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" style="flex-shrink: 0;">
   <div>
     <h3>Привет! 👋</h3>
     <p>Я маркетинговый аналитик из Санкт-Петербурга и тут разместила несколько своих кейсов портфолио.</p>
-    <ul>
-      <li>⚡ Навыки: Маркетинговая, продуктовая, бизнес-аналитика (Excel, Power Query, VBA, SQL, Python)</li>
-    </ul>
+    <ul><li>⚡ Навыки: Маркетинговая, продуктовая, бизнес-аналитика (Excel, Power Query, VBA, SQL, Python)</li></ul>
     <h4>Мое портфолио и кейсы: | Data analyst</h4>
   </div>
 </div>
