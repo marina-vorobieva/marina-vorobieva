@@ -25,7 +25,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="180" height="180" hspace="20" vspace="10">
 
 #### 📫 Контакты: 
-- Санкт-Петербург
-- Phone: +7 931 101-50-56
-- E-mail: marina.vorobieva92@mail.ru
-- Telegram: @marisabellich
+ - Санкт-Петербург
+ - Phone: +7 931 101-50-56
+ - E-mail: marina.vorobieva92@mail.ru
+ - Telegram: @marisabellich
