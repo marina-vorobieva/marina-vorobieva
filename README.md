@@ -1,5 +1,5 @@
 <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b">
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
+
 
 
 ### Привет!
