@@ -2,8 +2,6 @@
 
 ### Привет! Я Марина 
 
-<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
-
 ### Мои Hard-skills:
 
 - Считаю и оптимизирую unit-экономику
@@ -17,6 +15,9 @@
 - SQL (базово — JOIN, оконные функции)
 - Python (базово — предобработка данных, визуализация) 
 - Data Lens, парсеры
+
+<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
+
 
 ### Кейсы портфолио: 
 
