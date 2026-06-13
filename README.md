@@ -24,8 +24,7 @@
 <br>
 <br>
 
-  </tr>
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b">
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="190" height="190">
   
    <h3 style="margin-top: 0;"> Контакты</h3>
       <ul style="margin: 0;">
