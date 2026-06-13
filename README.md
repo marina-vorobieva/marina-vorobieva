@@ -16,6 +16,8 @@
 - Python (базово — предобработка данных, визуализация) 
 - Data Lens, парсеры
 
+
+style="pointer-events: none; height: 26px; margin: 2px 0;"
 <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" style="pointer-events: none; height: 28 px;" />
