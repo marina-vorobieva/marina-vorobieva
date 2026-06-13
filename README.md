@@ -19,9 +19,6 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 
 
 
-
-[**@portfolio**](https://github.com/marina-vorobieva/portfolio)
-
 #### 📫 Контакты: 
 - e-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
