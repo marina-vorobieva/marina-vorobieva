@@ -1,4 +1,6 @@
-### Привет! 🐥 Я Марина, аналитик данных
+#### Привет! 🐥 Я Марина, 
+## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
+
 
 <img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="30">
 
@@ -25,6 +27,7 @@
 
 
 #### 📫 Контакты: 
+- Санкт-Петербург
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
