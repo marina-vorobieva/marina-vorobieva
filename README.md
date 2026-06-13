@@ -33,47 +33,15 @@
 - Telegram: @marisabellich
 
 
-<style>
-  .projects-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin: 20px 0;
-  }
-  
-  .project-card {
-    flex: 1;
-    min-width: 280px;
-    background: #f5f5f5;
-    border-radius: 12px;
-    padding: 20px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-  
-  .project-card h3 {
-    margin-top: 0;
-    color: #333;
-    font-size: 1.2em;
-    border-bottom: 2px solid #ddd;
-    padding-bottom: 10px;
-  }
-  
-  .project-card ul {
-    padding-left: 20px;
-    margin: 0;
-  }
-  
-  .project-card li {
-    margin-bottom: 15px;
-    word-wrap: break-word;
-  }
-  
-  @media (max-width: 768px) {
-    .project-card {
-      min-width: 100%;
-    }
-  }
-</style>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1; min-width: 280px; background: #f5f5f5; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: #333; font-size: 1.2em; border-bottom: 2px solid #ddd; padding-bottom: 10px;">Проект 1</h3>
+    <ul style="padding-left: 20px; margin: 0;">
+      <li style="margin-bottom: 15px;">Описание</li>
+    </ul>
+  </div>
+</div>
 
 <div class="projects-container">
   <div class="project-card">
