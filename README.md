@@ -9,9 +9,7 @@
 
 #### ⚡ Владение инструментарием и технологиями:
 
-Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Data Lens, парсеры цен
-
-SQL (JOIN, оконные функции), Python (предобработка данных, визуализация)
+Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Data Lens, парсеры цен; SQL (JOIN, оконные функции), Python (предобработка данных, визуализация)
 
 
 #### 🌀 Кейсы портфолио: [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
