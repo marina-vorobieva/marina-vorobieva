@@ -24,15 +24,16 @@
 <br>
 <br>
 
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="40"> 
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="0"> 
 
-![](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 ### Контакты: 
 - Санкт-Петербург
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
+
+![](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 
 
