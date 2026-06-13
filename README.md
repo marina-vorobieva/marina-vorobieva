@@ -34,6 +34,8 @@
 - SQL (базово — JOIN, оконные функции): SQLite, PosgreSql
 - Python (базово — предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
 - Power BI, Tableau, Data Lens
+- СУБД: 1C, Форсайт
+- Figma, Miro, Power Point, Adobe
   
 <br>
 <div style="display: flex; align-items: flex-start">
