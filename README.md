@@ -31,10 +31,26 @@
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
-<br>
+
 ![](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 
+<div style="display: flex; align-items: flex-start; gap: 30px; margin: 20px 0;">
+  <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="180" height="180" style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  
+  <div>
+    <h3 style="margin-top: 0; color: #2c3e50;">📫 Контакты</h3>
+    <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+      <li style="margin-bottom: 10px;">📍 Санкт-Петербург</li>
+      <li style="margin-bottom: 10px;">📞 Phone: <a href="tel:+79311015056">+7 931 101-50-56</a></li>
+      <li style="margin-bottom: 10px;">✉️ E-mail: <a href="mailto:marina.vorobieva92@mail.ru">marina.vorobieva92@mail.ru</a></li>
+      <li style="margin-bottom: 10px;">💬 Telegram: <a href="https://t.me/marisabellich">@marisabellich</a></li>
+    </ul>
+  </div>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=👁️%20PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile views">
+</div>
 
 
