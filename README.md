@@ -18,7 +18,6 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 | -------------------------- | ------------------------------------------- |
 | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> • [portfolio](https://github.com/marina-vorobieva/portfolio)  Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> | • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br> • [portfolio](https://github.com/marina-vorobieva/portfolio) Кейс_Анализ_рынка_недвижимости_Дашборд+Отчет.xlsx <br>|
 
-<br>
 
 #### 📫 Контакты: 
 - e-mail: marina.vorobieva92@mail.ru
