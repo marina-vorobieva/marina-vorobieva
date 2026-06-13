@@ -2,6 +2,8 @@
 
 ### Привет! Я Марина 
 
+![](https://komarev.com/ghpvc/?marina-vorobieva&label=PROFILE+VIEWS)
+
 ### Мои Hard-skills:
 
 - Считаю и оптимизирую unit-экономику
