@@ -24,7 +24,6 @@
 <br>
 <br>
 <br>
-<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" style="vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
@@ -41,6 +40,5 @@
       <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
     </td>
   </tr>
-</table>
 
 
