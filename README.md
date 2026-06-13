@@ -1,11 +1,6 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b">
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-light.gif#gh-light-mode-only">
 
-<div style="display: flex; gap: 30px;">
-  <!-- Левая колонка: только картинка -->
-  <div style="min-width: 180px;">
-    <img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b">
-  </div>
 
 ### Привет!
 
