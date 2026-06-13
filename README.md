@@ -1,10 +1,17 @@
-<div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
-  <img src="https://github.com/user-attachments/assets/a50ca157-7a24-448f-a9b8-ee55e341ee63" alt="Мое портфолио и кейсы" width="160" style="border-radius: 8px;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+  <!-- Картинка слева -->
+  <div style="flex-shrink: 0;">
+    <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" />
+  </div>
+  
+  <!-- Весь текст справа -->
   <div>
+    <h3>Привет! 👋</h3>
+    <p>Я маркетинговый аналитик из Санкт-Петербурга и тут разместила несколько своих кейсов портфолио.</p>
+    <ul>
+      <li>⚡ Навыки: Маркетинговая, продуктовая, бизнес-аналитика (Excel, Power Query, VBA, SQL, Python)</li>
+    </ul>
     <h4>Мое портфолио и кейсы: | Data analyst</h4>
-    <p>✅ <strong>Используемые инструменты:</strong> SQL, Python, Data Lens, Power BI</p>
-    <p>✅ <strong>Основные навыки:</strong> Анализ продаж, дашборды, прогнозирование</p>
-    <p>📫 <strong>Контакты:</strong> Telegram: @marisabellich</p>
   </div>
 </div>
 <!--
