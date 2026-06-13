@@ -24,7 +24,7 @@
 <br>
 <br>
 <br>
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="220" style="vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
@@ -36,10 +36,9 @@
         <li> Phone: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
-        <br>
-        <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat"> </li>
-</p>
       </ul>
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
     </td>
   </tr>
 </table>
