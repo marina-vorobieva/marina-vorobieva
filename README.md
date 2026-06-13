@@ -1,6 +1,7 @@
 ### Привет! 🐥 Я Марина, аналитик данных
 
 <img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="160" height="160" hspace="30">
+<img align="right" src="https://github.com/user-attachments/assets/5252f7af-a051-4d9d-b1df-7e2c9b096221" width="160" height="160" hspace="30">
 
 #### 🔭 Мои Hard-skills: продуктовая аналитика + финансы:
 
