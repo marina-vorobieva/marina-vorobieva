@@ -26,6 +26,7 @@
 <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="30" vspace="30" style="margin-right: 30 px;">
 
 ### Контакты: 
+
 - Санкт-Петербург
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
