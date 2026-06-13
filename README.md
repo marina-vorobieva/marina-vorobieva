@@ -2,7 +2,7 @@
 
 ### Привет! Я Марина 
 
-![](https://komarev.com/ghpvc/?marina-vorobieva&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
 ### Мои Hard-skills:
 
