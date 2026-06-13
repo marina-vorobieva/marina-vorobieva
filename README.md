@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" style="pointer-events: none; height: 20 px;" />
-
 </div>
 
 ### Привет! Я Марина 
