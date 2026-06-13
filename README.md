@@ -34,7 +34,7 @@
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
 
 
-<div style="display: flex; align-items: flex-start; gap: 0 px;">
+<div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="40" style="margin-right: 0 px;">
   
   <div>
