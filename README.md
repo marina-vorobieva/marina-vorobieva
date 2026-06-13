@@ -1,5 +1,6 @@
-#### Привет! 🐥 Я Марина 
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
+
+#### Привет! 🐥 Я Марина 
 
 <img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
 
