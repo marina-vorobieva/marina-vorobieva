@@ -31,24 +31,20 @@
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
         <br>
-        </ul>
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
 
 
 <div style="display: flex; align-items: flex-start; gap: 20 px;">
-  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" style="margin-right: 30 px;">
+  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="45" style="margin-right: 30 px;">
   
   <div>
     <h3 style="margin-top: 0;">Контакты</h3>
     <ul style="margin: 0;">
-      <li>Санкт-Петербург</li>
-      <li>Phone: +7 931 101-50-56</li>
-      <li>E-mail: marina.vorobieva92@mail.ru</li>
-      <li>Telegram: @marisabellich</li>
-    </ul>
+      <li> Санкт-Петербург</li>
+        <li> Phone: +7 931 101-50-56</li>
+        <li> E-mail: marina.vorobieva92@mail.ru</li>
+        <li> Telegram: @marisabellich</li>
+        <br>
+<img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
   </div>
 </div>
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
-
