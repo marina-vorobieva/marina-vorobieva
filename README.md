@@ -33,4 +33,65 @@
 - Telegram: @marisabellich
 
 
+<style>
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .project-card {
+    flex: 1;
+    min-width: 280px;
+    background: #f5f5f5;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .project-card h3 {
+    margin-top: 0;
+    color: #333;
+    font-size: 1.2em;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  .project-card ul {
+    padding-left: 20px;
+    margin: 0;
+  }
+  
+  .project-card li {
+    margin-bottom: 15px;
+    word-wrap: break-word;
+  }
+  
+  @media (max-width: 768px) {
+    .project-card {
+      min-width: 100%;
+    }
+  }
+</style>
 
+<div class="projects-container">
+  <div class="project-card">
+    <h3>📊 Анализ данных в Excel, подготовка отчетов</h3>
+    <ul>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/raw/main/11-2024_Анализ_рынка_недвижимости_Дашборд%2BОтчет.xlsx">📎 Скачать excel</a> — Анализ рынка аренды недвижимости: интерактивный дашборд и отчет</li>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/raw/main/02-2024_ГПН-С_аудит_промышленных_компаний.pdf">📎 Скачать pdf</a> — ООО "Газпромнефть-Снабжение": аудит промышленных компаний Индии</li>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/raw/main/08-2024_Tazmar_Maritime_Генеральная_уборка.pdf">📎 Скачать pdf</a> — Tazmar Maritime: итоги участия в проекте судоподъемных работ "Генеральная уборка" на Дальнем Востоке</li>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/raw/main/11-2023_Scandic_Construction_аудит_российского_рынка.pdf">📎 Скачать pdf</a> — Scandic Construction: анализ рынка prefab-домостроения в России</li>
+    </ul>
+  </div>
+  
+  <div class="project-card">
+    <h3>🐍 Анализ данных: Python и SQL</h3>
+    <ul>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/blob/main/05-2026_Анализ_базы_данных_о_продаже_квартир.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> — Анализ базы данных о продаже квартир на Python (pandas, numpy, matplotlib.pyplot, seaborn)</li>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/04-2026_Создание_базы_данных_на_Python_SQLite.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> — Создание базы данных книжного магазина на Python (SQLite)</li>
+      <li><a href="https://github.com/marina-vorobieva/portfolio/05-2026_Математические_модели_для_прогнозирования_переменной.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> — Математические модели для прогнозирования переменной на Python (pandas, numpy, scipy, sklearn, matplotlib, seaborn)</li>
+    </ul>
+  </div>
+</div>
