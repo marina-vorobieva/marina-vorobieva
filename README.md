@@ -9,6 +9,8 @@
 - Провожу план-факт анализ, объясняю отклонения и выявляю их причины
 - Анализирую как внешний контур (рынок, конкуренты), так и внутренний (метрики продукта)
 
+<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
+
 ### Технический стек:
 
 - MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
@@ -16,7 +18,7 @@
 - Python (базово — предобработка данных, визуализация) 
 - Data Lens, парсеры
 
-<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
+
 
 
 ### Кейсы портфолио: 
