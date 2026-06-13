@@ -9,17 +9,12 @@
 - Провожу план-факт анализ, объясняю отклонения и выявляю их причины
 - Анализирую как внешний контур (рынок, конкуренты), так и внутренний (метрики продукта)
 
-<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
-
 ### Технический стек:
 
 - MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
 - SQL (базово — JOIN, оконные функции)
 - Python (базово — предобработка данных, визуализация) 
 - Data Lens, парсеры
-
-
-
 
 ### Кейсы портфолио: 
 
@@ -34,3 +29,5 @@
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
+
+<img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="170" height="170" hspace="50"> 
