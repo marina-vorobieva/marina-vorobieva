@@ -2,9 +2,8 @@
 Я маркетинговый аналитик из Санкт-Петербурга и тут разместила несколько своих кейсов портфолио.
 - ⚡ Навыки: Маркетинговая, продуктовая, бизнес-аналитика (Excel, Power Query, VBA, SQL, Python)
 #### Мое портфолио и кейсы: | Data analyst 
-(https://github.com/user-attachments/assets/a50ca157-7a24-448f-a9b8-ee55e341ee63)
-
-
+![Портфолио и кейсы | Data analyst ]()
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" />
 <!--
 **marina-vorobieva/marina-vorobieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
