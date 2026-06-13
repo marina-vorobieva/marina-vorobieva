@@ -1,5 +1,5 @@
 ### Привет! 🐥
-##  Я Марина, маркетинговый аналитик
+####  Я Марина, маркетинговый аналитик
 
 <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="240" height="240" hspace="30">
 
@@ -14,7 +14,7 @@ Excel (продвинутый уровень), VBA, Power Query, MDX (OLAP), Dat
 SQL (JOIN, оконные функции), Python (предобработка данных, визуализация)
 
 
-## Мое портфолио:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
+#### Мое портфолио:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
 
 #### 🌀 Кейсы портфолио:
 
