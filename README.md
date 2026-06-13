@@ -36,6 +36,8 @@
 - Power BI, Tableau, Data Lens
 - Figma, Miro, Power Point, Adobe
   
+---
+
 <br>
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="50" style="margin-right: 10px;">
