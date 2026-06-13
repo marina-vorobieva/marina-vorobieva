@@ -2,8 +2,6 @@
 
 ### Привет! Я Марина 
 
-![Profile views](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
-
 ### Мои Hard-skills:
 
 - Считаю и оптимизирую unit-экономику
@@ -32,4 +30,6 @@
 - Phone: +7 931 101-50-56
 - E-mail: marina.vorobieva92@mail.ru
 - Telegram: @marisabellich
+
+![Просмотров профиля](https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
