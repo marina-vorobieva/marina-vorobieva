@@ -37,6 +37,6 @@
   </div>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=👁️%20PROFILE%20VIEWS&color=0e75b6&style=flat">
 </p>
