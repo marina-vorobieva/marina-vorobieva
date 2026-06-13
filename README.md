@@ -26,6 +26,7 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="190" height="190" hspace="40"> 
 <br>
+
 ### Контакты: 
 - Санкт-Петербург
 - Phone: +7 931 101-50-56
