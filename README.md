@@ -5,7 +5,9 @@
 🦅 Я **Марина**, Продуктовый аналитик 
 
 ⚡ Профессиональный стек: Excel, Power Query, VBA
+
 🌱 Базовый стек: SQL (базовый уровень, JOIN, оконные функции), Python (предобработка, визуализация)
+
 🦢 Мое портфолио и кейсы:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
 <br>
 <br>
