@@ -1,13 +1,14 @@
 ### Привет!
 ## Я **Марина**, маркетинговый аналитик
 
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="220" height="220">
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
 
 ⚡ Профессиональный стек: Excel, Power Query, VBA
 
 🌱 Базовый стек: SQL (JOIN, оконные функции), Python (предобработка, визуализация)
 
-Мое портфолио:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
+
+## Мое портфолио:  [**@portfolio**](https://github.com/marina-vorobieva/portfolio)
 
 
 <br>
