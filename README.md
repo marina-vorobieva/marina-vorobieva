@@ -23,22 +23,16 @@
 
 <br>
 <br>
-<br>
-  <tr>
-    <td width="220" style="vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
-    </td>
-    <td style="vertical-align: top; padding-left: 50 px;">
-      <h3 style="margin-top: 0;"> Контакты</h3>
+
+  </tr>
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b">
+  
+   <h3 style="margin-top: 0;"> Контакты</h3>
       <ul style="margin: 0;">
         <li> Санкт-Петербург</li>
         <li> Phone: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
-      </ul>
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
-    </td>
-  </tr>
-
+  <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">
+<br>
 
