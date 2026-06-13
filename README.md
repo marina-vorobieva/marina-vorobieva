@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200">
 
-#### 🔭 Hard-skills:
+#### 🔭 Мои Hard-skills:
 
 - Считаю и оптимизирую unit-экономику
 - Делаю прогнозы управленческих метрик на основе исторических данных и драйверных коэффициентов роста
