@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="185" height="185" hspace="50" style="margin-right: 10 px;">
+<img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="185" height="185" hspace="45" style="margin-right: 50 px;">
    <h3 style="margin-top: 0;"> Контакты</h3>
       <ul style="margin: 0;">
         <li> Санкт-Петербург</li>
