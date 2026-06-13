@@ -15,6 +15,14 @@
 
 ### Привет! Я Марина 
 
+### Мой технический стек:
+
+- MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
+- SQL (базово — JOIN, оконные функции): SQLite, PosgreSql
+- Python (базово — предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
+- Power BI, Tableau, Data Lens, 1С
+- Figma, Miro, Power Point, Adobe
+  
 ### Мои кейсы портфолио: 
 
 | **Анализ данных в Excel, подготовка отчетов**  | **Анализ данных: Python и SQL** |      
@@ -27,14 +35,6 @@
 - Делаю прогнозы управленческих метрик на основе исторических данных и драйверных коэффициентов роста
 - Провожу план-факт анализ, объясняю отклонения и выявляю их причины
 - Анализирую как внешний контур (рынок, конкуренты), так и внутренний (метрики продукта)
-
-### Мой технический стек:
-
-- MS Excel (экспертно — VBA, Power Query, MDX (OLAP)
-- SQL (базово — JOIN, оконные функции): SQLite, PosgreSql
-- Python (базово — предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
-- Power BI, Tableau, Data Lens, 1С
-- Figma, Miro, Power Point, Adobe
 
  
 ----
