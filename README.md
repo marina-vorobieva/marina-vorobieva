@@ -1,5 +1,5 @@
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
- <div style="display: flex; gap: 8 px; flex-wrap: wrap; align-items: center;">
+ <div style="display: flex; gap: 16 px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
