@@ -1,10 +1,9 @@
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
 
 <div style="display: flex; align-items: flex-start">
+  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="70" style="margin-right: 40 px;">
   <div>
-  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="60" style="margin-right: 40 px;">
-  <div>
-    <h3 style="margin-top: 0;">Привет! Я Марина </h3>
+    <h3 style="margin-top: 0;"> Привет! Я Марина </h3>
     <ul style="margin: 0;">
        У меня высшее маркетинговое образование и я люблю выбранную профессию. </li>
        В последние годы все больше интересуюсь аналитикой. Мне нравится автоматизировать процессы с помощью языков программирования.</li>
