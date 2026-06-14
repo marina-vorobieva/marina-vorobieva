@@ -15,9 +15,9 @@
       <li>Визуализировать — создавая понятные картины мира с помощью SQL и Python.</li>
     </ul>
     <p style="margin: 0;">
+ <br>
 Сейчас я в активном поиске нового, по-настоящему интересного и захватывающего опыта в e-commerce.</li>
-        <br>
-      <br>
+  <br>
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
   </div>
   </div>
