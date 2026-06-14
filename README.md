@@ -20,7 +20,6 @@
   <br>
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
   </div>
-  </div>
  <br>
 
 ### Мои кейсы портфолио: 
