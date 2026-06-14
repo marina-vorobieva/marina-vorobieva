@@ -1,19 +1,13 @@
 # Марина Воробьева, аналитик данных
 
 
-<div style="display: flex; align-items: flex-start; gap: 30 px;">
-  <img 
-    src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" 
-    width="200" 
-    height="200" 
-    style="margin: 0; flex-shrink: 0; display: block;"
-  >
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0;">Маркетинг как фундамент. Аналитика как драйвер.</h3>
-    <p style="margin: 0 0 10 px 0;">
-      Моё высшее маркетинговое образование — это любовь к пониманию клиента и рынка. 
-      Но сегодня мой главный интерес — в продуктовой аналитике.
-    </p>
+<div style="display: flex; align-items: flex-start">
+  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="30" style="margin-right: 0 px;">
+  <div>
+    <h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
+    <ul style="margin: 0;">
+Моё высшее маркетинговое образование — это любовь к пониманию клиента и рынка. Но сегодня мой главный интерес — в продуктовой аналитике.
+  </p>
     <p style="margin: 0 0 10 px 0;"><strong>Что я люблю делать:</strong></p>
     <ul style="margin: 0 0 10 px 0; padding-left: 20 px;">
       <li>Автоматизировать — чтобы повторяющиеся задачи решались сами собой.</li>
@@ -21,22 +15,6 @@
       <li>Визуализировать — создавая понятные картины мира с помощью SQL и Python.</li>
     </ul>
     <p style="margin: 0;">
-      Сейчас я в активном поиске нового, по-настоящему интересного и захватывающего опыта в e-commerce.
-    </p>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: flex-start">
-  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="30" style="margin-right: 0 px;">
-  <div>
-    <h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
-    <ul style="margin: 0;">
-Моё высшее маркетинговое образование — это любовь к пониманию клиента и рынка. Но сегодня мой главный интерес — в продуктовой аналитике.
-Что я люблю делать:
-</li> Автоматизировать — чтобы повторяющиеся задачи решались сами собой. </li>
-</li> Искать связи — там, где другие видят просто цифры.</li>
-</li> Визуализировать — создавая понятные картины мира с помощью SQL и Python.</li>
 Сейчас я в активном поиске нового, по-настоящему интересного и захватывающего опыта в e-commerce.</li>
         <br>
       <br>
