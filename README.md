@@ -1,15 +1,16 @@
 # Марина Воробьева, аналитик данных
 
-<h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
+
     
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="230" height="230" hspace="30" style="margin-right: 0 px;">
   <div>
     <ul style="margin: 0;">
+<h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
 Моё высшее маркетинговое образование — это любовь к пониманию клиента и рынка. Но сегодня мой главный интерес — в продуктовой аналитике.
   </p>
-    <p style="margin: 0 0 10 px 0;"><strong>Что я люблю делать:</strong></p>
-    <ul style="margin: 0 0 10 px 0; padding-left: 20 px;">
+    <p style="margin: 0 0 5 px 0;"><strong>Что я люблю делать:</strong></p>
+    <ul style="margin: 0 0 5 px 0; padding-left: 20 px;">
       <li>Автоматизировать — чтобы повторяющиеся задачи решались сами собой.</li>
       <li>Искать связи — там, где другие видят просто цифры.</li>
       <li>Визуализировать — создавая понятные картины мира с помощью SQL и Python.</li>
