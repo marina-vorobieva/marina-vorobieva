@@ -1,3 +1,6 @@
+# Marina Vorobieva
+
+### 
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
 
 <div style="display: flex; align-items: flex-start">
