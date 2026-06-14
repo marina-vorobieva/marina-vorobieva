@@ -13,10 +13,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
 
-<div style="display: flex; align-items: flex-start">
-  <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="240" height="240" hspace="40" style="margin-right: 0 px;">
-  <div>
-    <ul style="margin: 0;">
+
 <h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
 Высшее маркетинговое образование даёт мне понимание клиента и рынка, а аналитический профиль — инструменты для решения стандартных и нестандартных задач. 
     <p style="margin: 0 0 10 px 0;"><strong>Что я люблю делать:</strong></p>
