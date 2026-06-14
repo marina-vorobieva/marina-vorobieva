@@ -63,7 +63,7 @@
 
 <h2 style="margin-top: 0;"> Контакты: </h2>
       <ul style="margin: 0;">
-        <li> Saint-Petersburg</li>
+        <li> Дистанционно / г. Санкт-Петербург</li>
         <li> Phone: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
