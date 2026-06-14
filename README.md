@@ -18,7 +18,6 @@
  <br>
 Сейчас я в активном поиске нового, по-настоящему интересного и захватывающего опыта в e-commerce.</li>
   <br>
-  <br>
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
   </div>
   </div>
