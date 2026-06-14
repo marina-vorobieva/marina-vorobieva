@@ -1,6 +1,7 @@
 ## Аналитик данных: продуктовая, маркетинговая, бизнес-аналитика
 
 <div style="display: flex; align-items: flex-start">
+  <div>
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="200" height="200" hspace="60" style="margin-right: 40 px;">
   <div>
     <h3 style="margin-top: 0;">Привет! Я Марина </h3>
