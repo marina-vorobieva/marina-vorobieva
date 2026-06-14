@@ -1,10 +1,10 @@
 # Марина Воробьева, аналитик данных
 
-
+<h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
+    
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="230" height="230" hspace="30" style="margin-right: 0 px;">
   <div>
-    <h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
     <ul style="margin: 0;">
 Моё высшее маркетинговое образование — это любовь к пониманию клиента и рынка. Но сегодня мой главный интерес — в продуктовой аналитике.
   </p>
