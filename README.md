@@ -1,5 +1,5 @@
 # Марина Воробьева, аналитик данных
- <br>   
+  
 <div style="display: flex; align-items: flex-start">
   <img align="left" src="https://github.com/user-attachments/assets/ab94acbd-6766-4a44-a6a6-cdf8ce47f42b" width="240" height="240" hspace="40" style="margin-right: 0 px;">
   <div>
@@ -18,6 +18,7 @@
 Сейчас я в активном поиске нового, по-настоящему интересного и захватывающего опыта в e-commerce.</li>
   <br>
   <br>
+     
 ### Мои кейсы портфолио: 
 
 | **Анализ данных в Excel, подготовка отчетов** | **Анализ данных: Python и SQL** |
