@@ -13,9 +13,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
 
-
-<h3 style="margin-top: 0;">  Маркетинг как фундамент. Аналитика как драйвер. </h3>
-
 </li>
 Я аналитик маркетплейсов с опытом в сегменте pharma. 
 Мой опыт включает навыки: автоматизации отчетности (MDX/Olap), анализ unit-экономики, ценообразования, моделей логистики. Работала с 7 маркетплейсами, прогнозировала эффект и запускала новые площадки (Wildberries, Мегаптека), а также промо-акции. 
