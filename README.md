@@ -35,7 +35,7 @@
 - Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
 - Power BI, Tableau, Data Lens, 1С
 - Figma, Miro, Power Point, Adobe
- <br>
+
 ### Образование: 
 
 - Высшее: СПБГЭУ (ИНЖЭКОН) - маркетинг (2009-2015)
