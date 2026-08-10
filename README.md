@@ -36,9 +36,13 @@
 - Power BI, Tableau, Data Lens, 1С
 - Figma, Miro, Power Point, Adobe
  <br>
- 
-### Высшее образование: 
-СПБГЭУ (ИНЖЭКОН) - маркетинг (2009-2015)
+### Образование: 
+
+- Высшее: СПБГЭУ (ИНЖЭКОН) - маркетинг (2009-2015)
+  
+Дополнительньное:
+- MUCIT (АНО ДПО «МУЦИТ») - Data analytics with SQL and Python - 2026
+- City&Guilds First Certificate ESOL - English - fluent B2 - 2008
 
 <h2 style="margin-top: 0;"> Контакты: </h2>
       <ul style="margin: 0;">
