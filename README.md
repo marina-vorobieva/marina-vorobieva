@@ -38,11 +38,11 @@
 
 ### Образование: 
 
-Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг (2009-2015)
+Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
   
 Дополнительное:
-- MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python — 2026
-- City&Guilds First Certificate ESOL — English — fluent B2 — 2008
+- MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
+- City&Guilds First Certificate ESOL — English B2 (fluent), 2008
 
 <h2 style="margin-top: 0;"> Контакты: </h2>
       <ul style="margin: 0;">
