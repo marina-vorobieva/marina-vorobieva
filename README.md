@@ -26,14 +26,6 @@
 - DWH, BI (Power BI, Tableau, Data Lens), 1С:ERP — уверенный уровень
 - Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
 
-### 🔹Образование: 
-
-Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
-  
-Дополнительное:
-- Sigma Academy, MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
-- City&Guilds First Certificate ESOL — English B2 (fluent), 2008
-
 </div> 
   <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
@@ -45,6 +37,16 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div> 
+
+### 🔹Образование: 
+
+Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
+  
+Дополнительное:
+- Sigma Academy, MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
+- City&Guilds First Certificate ESOL — English B2 (fluent), 2008
+
+
 
 <h2 style="margin-top: 0;"> 🔹Контакты: </h2>
       <ul style="margin: 0;">
