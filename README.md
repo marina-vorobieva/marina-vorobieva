@@ -18,8 +18,15 @@
 |-----------------------------------------------|---------------------------------|
 | • [Скачать excel](https://github.com/marina-vorobieva/portfolio/raw/main/11-2024_Анализ_рынка_недвижимости_Дашборд%2BОтчет.xlsx) Анализ рынка аренды недвижимости: интерактивный дашборд и отчет  <br>  • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/02-2024_ГПН-С_аудит_промышленных_компаний.pdf) ООО "Газпромнефть-Снабжение": аудит промышленных компаний Индии <br> • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/08-2024_Tazmar_Maritime_Генеральная_уборка.pdf) Tazmar Maritime: итоги участия в проекте судоподъемных работ "Генеральная уборка" на Дальнем Востоке  <br> | • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/05-2026_Анализ_базы_данных_о_продаже_квартир.ipynb) Анализ базы данных о продаже квартир на Python (pandas, numpy, matplotlib.pyplot, seaborn) <br> • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/04-2026_Создание_базы_данных_на_Python_SQLite.ipynb) Создание базы данных книжного магазина на Python (SQLite) <br> • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/05-2026_Математические_модели_для_прогнозирования_переменной.ipynb) Математические модели для прогнозирования переменной на Python (pandas, numpy, scipy, sklearn, matplotlib, seaborn) <br> |
 
- <br>
- <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+### Мой технический стек:
+
+- MS Excel (VBA, Power Query, MDX/OLAP) — продвинутый уровень
+- Figma, Miro, Power Point, Adobe — продвинутый уровень
+- SQL (JOIN, оконные функции): Clickhouse — уверенный уровень
+- DWH, BI (Power BI, Tableau, Data Lens), 1С:ERP — уверенный уровень
+- Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
+
+  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="pointer-events: none; height: 20 px;" />
@@ -29,16 +36,7 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
- <br>
- 
-### Мой технический стек:
 
-- MS Excel (VBA, Power Query, MDX/OLAP) — продвинутый уровень
-- Figma, Miro, Power Point, Adobe — продвинутый уровень
-- SQL (JOIN, оконные функции): Clickhouse — уверенный уровень
-- DWH, BI (Power BI, Tableau, Data Lens), 1С:ERP — уверенный уровень
-- Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
- 
 ### Образование: 
 
 Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
