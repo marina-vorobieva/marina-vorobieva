@@ -1,8 +1,8 @@
 # Аналитик e-commerce, BI
 
-Привет! Я Марина, коммерческий и маркетинговый аналитик с опытом 5+ лет. <br>
+Привет! 👋 Я Марина, коммерческий и маркетинговый аналитик с опытом 5+ лет. <br>
 
-### Мои Hard-skills:
+### 🔹Мои Hard-skills:
 
 - работа с SQL (Clickhouse) и MDX (для Olap-кубов): выполнение ad-hoc аналитики
 - проведение план-факт анализа, объяснение причин отклонений
@@ -12,13 +12,13 @@
 - пред-аналитика и запуски федеральных промо-кампаний с различными механиками
 - запуски новых каналов продаж: от финансового прогнозирования до влияния опциональных фишек e-commerce площадки
     
-### Мои кейсы портфолио: 
+### 🔹Мои кейсы портфолио: 
 
 | **Анализ данных в Excel, отчеты и презентации** | **Анализ данных на Python и SQL** |
 |-----------------------------------------------|---------------------------------|
 | • [Скачать excel](https://github.com/marina-vorobieva/portfolio/raw/main/11-2024_Анализ_рынка_недвижимости_Дашборд%2BОтчет.xlsx) Анализ рынка аренды недвижимости: интерактивный дашборд и отчет  <br>  • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/02-2024_ГПН-С_аудит_промышленных_компаний.pdf) ООО "Газпромнефть-Снабжение": аудит промышленных компаний Индии <br> • [Скачать pdf](https://github.com/marina-vorobieva/portfolio/raw/main/08-2024_Tazmar_Maritime_Генеральная_уборка.pdf) Tazmar Maritime: итоги участия в проекте судоподъемных работ "Генеральная уборка" на Дальнем Востоке  <br> | • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/05-2026_Анализ_базы_данных_о_продаже_квартир.ipynb) Анализ базы данных о продаже квартир на Python (pandas, numpy, matplotlib.pyplot, seaborn) <br> • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/04-2026_Создание_базы_данных_на_Python_SQLite.ipynb) Создание базы данных книжного магазина на Python (SQLite) <br> • [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/marina-vorobieva/portfolio/blob/main/05-2026_Математические_модели_для_прогнозирования_переменной.ipynb) Математические модели для прогнозирования переменной на Python (pandas, numpy, scipy, sklearn, matplotlib, seaborn) <br> |
 
-### Мой технический стек:
+### 🔹Мой технический стек:
 
 - MS Excel (VBA, Power Query, MDX/OLAP) — продвинутый уровень
 - Figma, Miro, Power Point, Adobe — продвинутый уровень
@@ -26,7 +26,7 @@
 - DWH, BI (Power BI, Tableau, Data Lens), 1С:ERP — уверенный уровень
 - Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
 
-### Образование: 
+### 🔹Образование: 
 
 Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
   
@@ -36,7 +36,7 @@
 
  Ищу роль для решения комплексных аналитических и бизнес-задач в e-commerce/retail/b2b.  
 
-<h2 style="margin-top: 0;"> Контакты: </h2>
+<h2 style="margin-top: 0;"> 🔹Контакты: </h2>
       <ul style="margin: 0;">
         <li> Дистанционно / г. Санкт-Петербург</li>
         <li> Phone: +7 931 101-50-56</li>
