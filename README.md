@@ -33,10 +33,10 @@
 
 ### Мой технический стек:
 
-- MS Excel (экспертно — VBA, Power Query, MDX/OLAP)
-- SQL (JOIN, оконные функции): SQLite, PosgreSql
-- Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn
-- Power BI, Tableau, Data Lens, 1С
+- MS Excel (VBA, Power Query, MDX/OLAP) — продвинутый уровень
+- SQL (JOIN, оконные функции): Clickhouse — базовый уровень
+- Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
+- Power BI, Tableau, Data Lens, 1С:ERP
 - Figma, Miro, Power Point, Adobe
 
 ### Образование: 
@@ -44,7 +44,7 @@
 Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
   
 Дополнительное:
-- MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
+- Sigma Academy, MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
 - City&Guilds First Certificate ESOL — English B2 (fluent), 2008
 
 Ищу роль для решения комплексных аналитических и бизнес-задач в e-commerce/retail/b2b.  
