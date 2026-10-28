@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div> 
 
+
  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
 
