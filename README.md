@@ -21,10 +21,10 @@
 ### Мой технический стек:
 
 - MS Excel (VBA, Power Query, MDX/OLAP) — продвинутый уровень
-- SQL (JOIN, оконные функции): Clickhouse — базовый уровень
+- Figma, Miro, Power Point, Adobe — продвинутый уровень
+- SQL (JOIN, оконные функции): Clickhouse — уверенный уровень
+- DWH, BI (Power BI, Tableau, Data Lens), 1С:ERP — уверенный уровень
 - Python (предобработка данных, визуализация): pandas, numpy, scipy, sklearn, matplotlib, seaborn — базовый уровень
-- Power BI, Tableau, Data Lens, 1С:ERP
-- Figma, Miro, Power Point, Adobe
 
 ### Образование: 
 
@@ -38,8 +38,14 @@
 
 
 <h2 style="margin-top: 0;"> Контакты: </h2>
+      <ul style="margin: 0;">
+        <li> Дистанционно / г. Санкт-Петербург</li>
+        <li> Phone: +7 931 101-50-56</li>
+        <li> E-mail: marina.vorobieva92@mail.ru</li>
+        <li> Telegram: @marisabellich</li>
+        <br>
 
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+         <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" style="pointer-events: none; height: 28 px;" /> 
   <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" style="pointer-events: none; height: 20 px;" />
@@ -49,11 +55,6 @@
   <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="pointer-events: none; height: 20 px;" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" style="pointer-events: none; height: 20 px;" />
 </div>
-      <ul style="margin: 0;">
-        <li> Дистанционно / г. Санкт-Петербург</li>
-        <li> Phone: +7 931 101-50-56</li>
-        <li> E-mail: marina.vorobieva92@mail.ru</li>
-        <li> Telegram: @marisabellich</li>
-        <br>
+
 <img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  <br>
 
