@@ -40,25 +40,20 @@
 
 ### 🔹Образование: 
 
-Высшее: СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), 2009-2015
+СПБГЭУ (ИНЖЭКОН) — маркетинг ("маркетинговый анализ"), специалист, 2009-2015 — Высшее
   
 Дополнительное:
 - Sigma Academy, MUCIT (АНО ДПО «МУЦИТ») — Data analytics with SQL and Python, 2026
 - City&Guilds First Certificate ESOL — English B2 (fluent), 2008
 
 
-
 <h2 style="margin-top: 0;"> 🔹Контакты: </h2>
       <ul style="margin: 0;">
-        <li> Дистанционно / г. Санкт-Петербург</li>
-        <li> Phone: +7 931 101-50-56</li>
+        <li> Локация: г. Санкт-Петербург (+3:00 Msc)</li>
+        <li> Мобильный тел.: +7 931 101-50-56</li>
         <li> E-mail: marina.vorobieva92@mail.ru</li>
         <li> Telegram: @marisabellich</li>
         <br>
-     
-  <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-<img src="https://komarev.com/ghpvc/?username=marina-vorobieva&label=PROFILE+VIEWS&color=0e75b6&style=flat">  
-          <br>
      
 
 
